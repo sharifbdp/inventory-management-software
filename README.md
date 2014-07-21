@@ -1,0 +1,1 @@
+This project is for a Shop to manage their store, debit/credit data, reports, after sale support module and so on.
